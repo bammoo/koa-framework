@@ -43,7 +43,7 @@
     "@types/koa": "^2.0.48",
     "@types/koa-router": "^7.0.40",
     "@types/node": "^9.4.6",
-    "eslint": "^3.1.1",
+    "eslint": "^6.0.1",
     "pino-pretty": "^2.5.0",
     "typescript": "^3.3.3"
   }
